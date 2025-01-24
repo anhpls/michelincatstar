@@ -1,0 +1,4 @@
+repository "Michelin Cat Star Idle RPG@unity_67F0A2B6BD2DE62412DF@cloud"
+  path "/"
+    br "/main"
+    co "/main"
