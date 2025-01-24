@@ -53,3 +53,32 @@ MichelinCatStar is an iOS idle RPG that combines engaging cooking mechanics with
 4. **Idle Rewards**:
    - Earn progress and rewards even while offline.
    - Collect daily rewards to enhance your gameplay experience.
+
+---
+
+## Roadmap
+
+- **Cloud Saving**: Allow players to save progress and sync across devices.
+- **Community Challenges**: Introduce leaderboards and collaborative goals.
+- **Expanded Gameplay**:
+  - Add VIP memberships with exclusive bonuses.
+  - Introduce user-generated challenges for the community.
+- **New Maps & Mobs**: Continuously release new environments and enemies to keep gameplay fresh.
+
+---
+
+## Developer Notes
+
+**Current Version**: 1.0.0  
+MichelinCatStar is a passion project aimed at delivering an engaging idle RPG experience with unique cooking mechanics. Contributions and feedback are welcome to improve and expand the game.
+
+**Status**: Actively under development, with planned updates for future enhancements.
+
+---
+
+## Contact
+
+For inquiries, collaboration, or feedback, reach out to me:
+
+- **GitHub**: [anhpls](https://github.com/anhpls)
+- **Email**: [ahuynh018@student.sdccd.edu](mailto:ahuynh018@student.sdccd.edu)
